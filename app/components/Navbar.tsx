@@ -88,7 +88,7 @@ export default function Navbar({ isAuthenticated }: NavbarProps) {
       {/* Logo */}
       <div className="h-16 flex items-center pl-4">
         <img
-          src="images/logo.png"
+          src="Images/logo.png"
           alt="Logo"
           className="max-h-20 w-auto object-contain"
         />
