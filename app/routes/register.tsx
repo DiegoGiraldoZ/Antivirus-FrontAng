@@ -42,7 +42,7 @@ export default function Register() {
                 className="md:block hidden "
               >
                 <img
-                  src="/Images/Cohete.png"
+                  src="images/Cohete.png"
                   alt="Cohete"
                   className="w-full h-full md:w-full md:h-full object-contain"
                 />
