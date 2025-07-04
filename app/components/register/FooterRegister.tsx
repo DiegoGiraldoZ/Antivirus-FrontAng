@@ -62,7 +62,7 @@ export default function FooterRegister() {
             <div className="md:w-1/2 w-full flex justify-center mt-0 md:mt-52">
                 <div className="w-full max-w-lg">
                     <img
-                        src="/registerImg.png"
+                        src="Images/registerImg.png"
                         alt="registerImg"
                         className="w-full h-auto rounded-lg shadow"
                     />

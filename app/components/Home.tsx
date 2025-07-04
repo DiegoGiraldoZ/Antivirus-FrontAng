@@ -27,7 +27,7 @@ export default function Home() {
         {/* Imagen */}
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="images/Analyse.png"
+            src="Images/Analyse.png"
             alt="Ilustración"
             className="w-[130%] max-w-[700px] md:max-w-[850px] lg:max-w-[900px] h-auto"
           />

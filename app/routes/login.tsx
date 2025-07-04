@@ -95,7 +95,7 @@ export default function LoginPage() {
           {/* Contenedor de imagen animada */}
           <div className={styles.imageContainer}>
             <motion.img
-              src="/Images/Javi.png"
+              src="Images/Javi.png"
               alt="Javi"
               className={styles.image}
               animate={{ y: [0, -10, 0] }} // Movimiento de arriba abajo
